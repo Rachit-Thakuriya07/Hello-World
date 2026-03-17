@@ -6,7 +6,7 @@ public class UC_2 {
             System.out.println("Hello " + args[0]);
         } 
         else {
-            System.out.println("Please provide your name.");
+            System.out.println("Hello!");
         }
 
     }
