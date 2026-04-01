@@ -1,4 +1,5 @@
 public class UC_7 {
+   
     public static void main(String[] args) {
 
         if (args.length == 0) {
@@ -9,3 +10,4 @@ public class UC_7 {
         }
     }
 }
+
